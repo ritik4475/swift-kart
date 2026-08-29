@@ -30,7 +30,7 @@
 - SELECT policy scoped to `anon, authenticated` so the anon-key frontend can read data.
 - No INSERT/UPDATE/DELETE policies — data is managed via migrations only.
 
-3. Notes
+3. Notes 
 - Prices in INR (₹) to match quick-commerce style.
 - `mrp` lets us show discount percentages; `price` is the selling price.
 */
